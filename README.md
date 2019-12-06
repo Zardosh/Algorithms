@@ -5,7 +5,7 @@ Some of my solutions to problems from coding websites, like HackerRank and LeetC
 
 
 ## Navigation
-The algorithms are divided by programming language > category.
+The algorithms are divided by website > category > difficulty > problem > programming language.
 
 ---
 
@@ -14,4 +14,4 @@ Algumas das minhas soluções para desafios de sites de programação, como Hack
 
 
 ## Navegação
-Os algoritmos são divididos por linguagem de programação > categoria.
+Os algoritmos são divididos por site > categoria > dificuldade > desafio > linguagem de programação.
