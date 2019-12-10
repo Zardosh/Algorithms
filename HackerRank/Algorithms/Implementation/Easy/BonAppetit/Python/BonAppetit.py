@@ -15,6 +15,7 @@ def bonAppetit(bill, k, b):
     else:
         print(int(b - actual_share))
 
+# Challenge definitions
 if __name__ == '__main__':
     nk = input().rstrip().split()
 
